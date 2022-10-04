@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![SKlayers's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKlayer&show_icons=true&theme=radical)
 <!--
 **SKlayer/sklayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
